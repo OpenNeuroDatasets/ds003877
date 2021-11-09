@@ -1,19 +1,19 @@
 {
     "Name": "BrainMorphometry_DiminishedGrowth_BEANstudy_2021",
-    "License": "CC BY",
+    "License": "CC0",
     "Authors": [
         "Ted Turesky",
         "Talat Shama",
         "Shahriah Hafiz Kakon",
         "Rashidul Haque",
         "Nazrul Islam",
-	   "Amala Someshwar",
+        "Amala Someshwar",
         "Borjan Gagoski",
-	   "William Petri",
-	   "Charles Nelson",
-	   "Nadine Gaab"
+        "William Petri",
+        "Charles Nelson",
+        "Nadine Gaab"
     ],
-    "Acknowledgements": "",
+    "Acknowledgements": "We are grateful to the families who participated in the study, the staff at The International Centre for Diarrhoeal Disease Research who undertook and completed data collection, and Uma Nayak and Rachel Kwon for organizing the non-MRI measures. Finally, we thank the Harvard Catalyst Biostatistical Consulting program for guidance on reporting mediations.",
     "HowToAcknowledge": "",
     "Funding": [
         "Funding for this work was provided by research grants from the Bill & Melinda Gates Foundation to CA Nelson [OPP1111625] and WA Petri [OPP1017093], from the Henske Foundation to WA Petri, from NIAID (R01 AI043596-17) to WA Petri, and from the Harvard Brain Initiative Transitions Program to TK Turesky."
