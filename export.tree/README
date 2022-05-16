@@ -1,0 +1,19 @@
+This repository contains the dataset corresponding to the following study:
+
+Ted K. Turesky, Talat Shama, Shahria Hafiz Kakon, Rashidul Haque, Nazrul Islam, Amala Someshwar, Borjan Gagoski, William A. Petri, Charles A. Nelson, Nadine Gaab (2021) Brain Morphometry and Diminished Physical Growth in Bangladeshi Children Growing up in Extreme Poverty: a Longitudinal Study, Developmental Cognitive Neuroscience, 101029. doi.org/10.1016/j.dcn.2021.101029
+
+Data contained in this repository includes:
+
+. Raw T1 MRI images in nifti format 
+. Age at MRI (months)
+. Sex (female=1; male=2)
+. Frequency of C-reactive protein elevations
+. Height-for-age
+. Weight-for-age
+. Weight-for-height
+. Maternal education (years, rescaled)
+. log(income-to-needs)
+. Full-scale IQ
+
+Code used to process and analyze these data is available at https://github.com/TeddyTuresky/BrainMorphometry_DiminishedGrowth_BEANstudy_2021
+
