@@ -1,4 +1,4 @@
-participant-id	Sex-(female=1;-male=2)	Age-at-MRI-(months)	CRP-elevations-frequency	Height-for-age	Weight-for-age	Weight-for-height	Head-circumference-at-MRI	Materna-education-(years-rescaled)	log(income-to-needs)	Full-scale-IQ
+participant_id	Sex_(female=1_male=2)	Age_at_MRI_(months)	CRP_elevations_frequency	Height-for-age	Weight-for-age	Weight-for-height	Head_circumference_at_MRI	Materna_education_(years_rescaled)	log(income-to-needs)	Full-scale_IQ
 sub-01	2	73	1	-1.98	-1.26	-0.31	48.5	0	3.2921	77
 sub-02	1	73	2	-1.4867	-1.5633	-1.0833	46.5	0	3.1386	90
 sub-03	1	73	2	-0.8867	-1.1867	-1.0533	50.5	9	3.446	99
